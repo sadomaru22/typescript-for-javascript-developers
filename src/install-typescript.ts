@@ -1,4 +1,3 @@
-let message string = 'Hello, Typescript!';
+<<<<<<< HEAD
+let message string = 'Hello, ts-node!';
 console.log({ message });
-:wp
-
